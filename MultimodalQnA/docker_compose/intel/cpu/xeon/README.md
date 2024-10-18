@@ -191,7 +191,7 @@ By default, the multimodal-embedding and LVM models are set to a default value a
 
 ```bash
 cd GenAIExamples/MultimodalQnA/docker_compose/intel/cpu/xeon/
-docker compose -f compose.yaml up -d
+docker-compose -f compose.yaml up -d
 ```
 
 ### Validate Microservices
